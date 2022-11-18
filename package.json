@@ -1,0 +1,26 @@
+{
+  "name": "api_restful_node_express_mongodb",
+  "version": "1.0.0",
+  "description": "Seguindo os passos do Matheus Battisti de https://www.youtube.com/watch?v=K5QaTfE5ylk&amp;list=PLnDvRpP8BneyHealXbzntUoFtE4SrFWWW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemons ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCancado/api_restful_node_express_mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorCancado/api_restful_node_express_mongodb/issues"
+  },
+  "homepage": "https://github.com/VictorCancado/api_restful_node_express_mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
